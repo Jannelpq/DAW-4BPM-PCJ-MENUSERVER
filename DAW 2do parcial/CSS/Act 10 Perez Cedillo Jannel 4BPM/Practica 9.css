@@ -1,0 +1,138 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:16/03/24*/
+/*A continuación le aplicamos CSS a la actividad 10 (ACT10.HTML). Desde un archivo CSS.(ACT10.CSS)*/
+body{
+    background-image: url(./GIFs/mariposafondo.gif);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+h1{
+    font-family: didot;
+    color: #8317E7;
+    font-size: 50px;
+    text-align: center;
+}
+.subtitulo{
+    font-size: 35px;
+    font-style: italic;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 220px;
+}
+.img2{
+    width: 280px;
+    height: 190px;
+    float: right;
+}
+p{
+    font-family: didot;
+    color: #DEE148;
+    text-align: left;
+    font-size: 25px;
+}
+.pcentro{
+    text-align: center;
+}
+.img3{
+    float: left;
+    width: 280px;
+    height: 190px;
+}
+.pderecha{
+    text-align: right;
+}
+.img4{
+    float: right;
+    width: 160px;
+    height: 240px;
+}
+.img5{
+    width: 260px;
+    height: 230px;
+    float: left;
+}
+ul{
+    float: right;
+    list-style-position: inside;
+    font-family: cambria;
+    color: darkgreen;
+    font-size: 25px;
+}
+h3{
+    text-align: center;
+    font-family: book antiqua;
+    color:#E0E602;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #EBB95D;
+    color: blueviolet;
+    text-align: center;
+    border-spacing:0;
+}
+td{
+    width: 200px;
+    height: 100px;
+}
+.lstizq{
+    float: left;
+    text-align: left;
+}
+.subizq{
+    text-align: left;
+}
+.img6{
+    float: left;
+    width: 170px;
+    height: 250px;
+}
+.subderecha{
+    text-align: right;
+}
+.tabladerecha{
+    float: right;
+}
+video{
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 250px;
+}
+.video2{
+    float: right;
+    width: 350px;
+    height: 250px;
+}
+.tablemenu{
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+.gif{
+    float: left;
+    height: 180px;
+    width: 180px;
+}

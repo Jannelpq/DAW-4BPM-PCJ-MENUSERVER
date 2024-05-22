@@ -1,0 +1,102 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:16/03/24*/
+/*A continuación le aplicamos CSS a la actividad 7 (ACT7.HTML). Desde un archivo CSS.(ACT7.CSS)*/
+body {
+    background-color: #FFD5AB;
+    padding: 5PX;
+}
+h1 {
+    font-size: 50px;
+    font-family: didot;
+    color: #860FD9;
+    text-align: center;
+}
+h2 {
+    text-align: left;
+    font-family: book antiqua;
+    color: darkgreen;
+    font-size: 25px;
+}
+.tyhcentro{
+    text-align: center;
+    font-size: 30px;
+}
+img {
+    float: left;
+}
+p{
+    text-align: left;
+    font-family: book antiqua;
+    color: #35A0A7;
+    font-size: 20px;
+}
+video {
+    width: 350px;
+    height: 250px;
+    float: right;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #BFF5F9;
+    border-color: #40282A;
+    text-align: center;
+    border-spacing: 0;
+}
+td {
+    width: 110px;
+    height: 50px;
+}
+.imgderecha {
+    float: right;
+}
+.vidizq {
+    width: 330px;
+    height: 230px;
+    float: left;
+}
+.pderecha{
+    text-align: right;
+    font-family: book antiqua;
+    color: #35A0A7;
+    font-size: 20px;
+}
+.table2 {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #B2F7BC;
+    border-color: gray;
+    text-align: center;
+    border-spacing: 0;
+}
+ul{
+    font-size: 20px;
+}
+.tablemenu{
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+.gif{
+    float: right;
+    width: 180px;
+    height: 180px;
+}

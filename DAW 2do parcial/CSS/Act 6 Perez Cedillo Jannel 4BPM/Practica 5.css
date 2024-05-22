@@ -1,0 +1,90 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:14/03/24*/
+/*A continuación le aplicamos CSS a la actividad 6 (ACT6.HTML). Desde un archivo CSS.(ACT6.CSS)*/
+body{
+    background-color: lightblue;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-family: castellar;
+    font-size: 25px;
+}
+h2{
+    text-align: center;
+    font-family: didot;
+    color: blue;
+    font-size: 35px;
+}
+.imagen{
+    float: right;
+}
+p{
+    font-style: italic;
+    text-align: left;
+}
+.sublista{
+    font-family: book antiqua;
+    color: brown;
+    font-size: 30px;
+    text-align: left;
+}
+ul{
+    font-family: book antiqua;
+    color: blue;
+    font-size: 25px;
+}
+.azul{
+    font-family: book antiqua;
+    color: blue;
+    font-size: 25px;
+    text-align: left;
+    display: inline-block;
+}
+.negro{
+    font-family: book antiqua;
+    color: black;
+    font-size: 25px;
+    text-align: left;
+}
+h3{
+    font-style: italic;
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+}
+h4{
+    font-size: 25px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+.tablemenu{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+.gif{
+    float: right;
+    width:180px;
+    height: 180px;
+}

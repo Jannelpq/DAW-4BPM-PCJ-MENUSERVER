@@ -1,0 +1,56 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:13/03/24*/
+/*A continuación le aplicamos CSS a la actividad 3 (ACT3.HTML). Desde un archivo CSS.(ACT3.CSS)*/
+body{
+    background-color: black;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    font-family: didot;
+    color:yellow;
+    font-size: 45px;
+}
+img{
+    float: right;
+}
+h2{
+    text-align: left;
+    font-family: Didot;
+    color: yellow;
+    font-size: 25px;
+}
+p{
+    text-align: left;
+    font-family: optima;
+    color:white;
+    font-size: 20px;
+}
+.tablemenu{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+
+.gif{
+    float: right;
+    width: 180px;
+    height: 180px;
+}
