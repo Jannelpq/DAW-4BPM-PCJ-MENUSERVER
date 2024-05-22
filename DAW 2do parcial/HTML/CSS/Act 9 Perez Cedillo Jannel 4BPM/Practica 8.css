@@ -1,0 +1,142 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:16/03/24*/
+/*A continuación le aplicamos CSS a la actividad 9 (ACT9.HTML). Desde un archivo CSS.(ACT9.CSS)*/
+body{
+    background-image: url(./Imágenes/Díadelamujerfondo.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+    font-family: cambria;
+    color: #2F0064;
+    font-size: 50px;
+}
+.subtitulo{
+    font-size: 35px;
+    font-style: italic;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 280px;
+    height: 180px;
+}
+.introduccion{
+    font-family: didot;
+    color: white;
+    text-align: center;
+}
+h3{
+    font-family: didot;
+    color: #023B1C;
+    text-align: left;
+    font-size: 30px;
+}
+.img2{
+    float: right;
+    width: 265px;
+    height: 145px;
+}
+p{
+    text-align: left;
+    font-family: calibri;
+    color: white;
+}
+.pcentro{
+    text-align: center;
+}
+.pderecha{
+    text-align: right;
+}
+.img3{
+    float: left;
+    width: 320px;
+    height: 140px;
+}
+.pregntcentro{
+    text-align: center;
+}
+.img4{
+    float: left;
+    width: 200px;
+    height: 250px;
+}
+.gif1{
+    float: right;
+    width: 220px;
+    height:200px;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #E8E8E8;
+    border-color: darkgray;
+    border-spacing: 0;
+    text-align: center;
+}
+td{
+    height: 50px;
+    width: 200px;
+}
+ul{
+    text-align: right;
+    list-style-position:inside;
+    font-family: cambria;
+    color: darkgray;
+    font-size: 25px;
+}
+.lstizq{
+    text-align: left;
+}
+.prgnt2subderecha{
+    text-align: right ;
+}
+.prgnt2sub{
+    color:#E0E602;
+}
+.img5{
+    float: left;
+    width: 330px;
+    height: 170px;
+}
+.img6{
+    float: right;
+    width: 230px;
+    height: 180px;
+}
+video{
+    display: block;
+    margin: auto;
+    width:350px;
+    height: 200px;
+}
+.tablemenu{
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+.gifdatos{
+    float: right;
+    width: 180px;
+    height: 180px;
+}

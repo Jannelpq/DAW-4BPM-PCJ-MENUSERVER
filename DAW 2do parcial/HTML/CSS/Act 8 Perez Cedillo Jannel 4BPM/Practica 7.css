@@ -1,0 +1,97 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:16/03/24*/
+/*A continuación le aplicamos CSS a la actividad 8 (ACT8.HTML). Desde un archivo CSS.(ACT8.CSS)*/
+body{
+    background-color: #C8FFCB;
+    padding: 5px;
+}
+h1{
+    text-align: center;
+    font-family: didot;
+    color: red;
+    font-size: 50px;
+}
+.subtitulo{
+    font-size: 35px;
+}
+ol{
+    text-align: left;
+    list-style-position: inside;
+    font-family: book antiqua;
+    color:#25AAAE;
+}
+h2{
+    font-family: book antiqua;
+    color: #7303EA;
+}
+.img1{
+    float: right;
+}
+.lst2{
+    text-align: center;
+    color: #C834C1;
+}
+.sublst2{
+    text-align: center;
+    color: #B7C115;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 130px;
+    height:auto;
+}
+.lst3{
+    text-align: right;
+    color: #C68014;
+}
+.sublst3{
+    text-align: right;
+}
+.img3{
+    float: left;
+}
+.lst4{
+    text-align: center;
+    color: #1E6335;
+}
+.sublst4{
+    color: #909090;
+}
+h3{
+    text-align: left;
+    font-family: book antiqua;
+}
+video{
+    width:360px;
+    height: 230px;
+    float: left;
+}
+.tablemenu{
+    background-color: rgba(0, 0, 0, 0);
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+.gif{
+    width: 180px;
+    height: 180px;
+    float: right;
+}

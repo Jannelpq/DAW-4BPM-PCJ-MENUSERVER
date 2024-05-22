@@ -1,0 +1,62 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:13/03/24*/
+/*A continuación le aplicamos CSS a la actividad 5 (ACT5.HTML). Desde un archivo CSS.(ACT5.CSS)*/
+body{
+    background-color: lightyellow;
+    padding: 1px;
+}
+h1{
+    font-family: didot;
+    color: green;
+    font-size: 45px;
+    text-align: center;
+}
+img{
+    margin: auto;
+    display: block;
+}
+h2{
+    text-align: left;
+    font-family: book antiqua;
+    color: green;
+    font-size: 30px;
+}
+ul{
+    font-size: 25px;
+    color: black;
+    text-align: left;
+    list-style-position: inside;
+}
+p{
+    text-align: left;
+    font-family: book antiqua;
+    color: black;
+    font-size: 25px;
+}
+.tablemenu{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+.gif{
+    float: right;
+    width: 180px;
+    height: 180px;
+}

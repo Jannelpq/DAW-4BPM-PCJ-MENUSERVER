@@ -1,0 +1,54 @@
+/*Este es un comentario en CSS*/
+/*PÉREZ CEDILLO JANNEL       GRUPO:4BPM*/
+/*DAW                                           FECHA:13/03/24*/
+/*A continuación le aplicamos CSS a la actividad 2 (ACT2.HTML). Desde un archivo CSS.(ACT2.CSS)*/
+h1{
+    font-family:helvetica;
+    color:purple;
+    font-size:50px;
+    text-align: center;
+}
+h2{
+    font-family: courier;
+    color: navy;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h4{
+    font-family: Calibri;
+    color: teal;
+    text-align: center;
+    font-size: 25px;
+}
+h5{
+    font-family: Calibri;
+    color: maroon;
+    font-size: 20px;
+}
+.tablemenu{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 30px;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
+.gif{
+    float: right;
+    width: 180px;
+    height: 180px;  
+}
