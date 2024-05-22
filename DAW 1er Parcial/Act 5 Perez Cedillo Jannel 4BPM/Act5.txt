@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Practica 4 Receta de Ensalada de atún</title>
+<body>
+<body bgcolor="lightyellow">
+<center>
+<h1><font face="Didot" color="green" size="7">Ensalada de atún</font></h1>
+<img src="G:\DAW\Act 5 Perez Cedillo Jannel 4BPM\Imágenes\Ensaladaatún.jpg">
+</center>
+<h2 align=left><font face="book antiqua" color="green" size="6">Ingredientes:</font><br>
+<ul>
+<li><font color="black" size="5">Dos latas de atún</li>
+<li><font color="black" size="5">Una lata de elote</li>
+<li><font color="black" size="5">Mayonesa</li>
+<li><font color="black" size="5">Un tómate</li>
+<li><font color="black" size="5">Tostadas</li>
+</ul></h2>
+<h2 align=left><font face="book antiqua" color="green" size="6">Preparación:</font><br></h2>
+<h3>
+<font face="bock antiqua" color="black" size="5">
+<p align="left">-En un recipiente vaciaremos el atún y el elote<br>
+-Después picaremos finamente el tómate y se lo agregaremos<br>
+-Agregaremos mayonesa (Cantidad al gusto o al tanteo) y revolveremos muy bien todo<br>
+-Para así finalmente acompañar con las tostadas y alguna salsa de tu preferencia.<br>
+</p></font></h3>
+<h6 align=right><font face="calibri" color="blue">Alumn@: Perez Cedillo Jannel</font></h6>
+<h6 align=right><font face="calibri" color="blue">Grupo: 4BPM Materia: Desarrollo de Aplicaciones Web</font></h6>
+<hr>
+</body>
+</html>

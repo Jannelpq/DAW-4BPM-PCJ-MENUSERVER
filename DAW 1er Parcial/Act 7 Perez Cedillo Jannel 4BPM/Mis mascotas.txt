@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Práctica 6 Mis mascotas</title>
+<body>
+<body bgcolor="#FFD5AB">
+<center>
+<h1><font face="Didot" color="#860FD9" size="7">Mis mascotas</font></h1>
+<h1><font face="Didot" color="#860FD9" size="6">Toby y Hinata</font></h1>
+<br>
+<br>
+</center>
+<img src="G:\DAW\Act 7 Perez Cedillo Jannel 4BPM\Imágenes\toby.jpg" align="left">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 align="left"><font face="book antiqua" color="#35A0A7" size="4">Toby era de un amigo de mi papá que cambió de casa y como ya no podía tenerlo decidió regalarlo, <embed src="G:\DAW\Act 7 Perez Cedillo Jannel 4BPM\Videos\Tobyvideo.mp4" width="350" height="250" style="float: right;"><br>
+mi papá se ofreció para adoptarlo y lo trajo a la casa, al principio fue muy tímido con todos<br> 
+aunque no le costó mucho adaptarse, ahora se volvió muy juguetón con todos, le gusta mucho el<br> 
+pollo y es muy alegre con todos. Suele escaparse por ratos de la casa a pesar de que tiene un<br>
+terreno muy amplio para correr y jugar, tiene una "hermana" llamada Hima la cual no agregue en<br>
+esta página debido a que no tiene mucho con nosotros pero ella fue rescatada pues se veía perdida<br>
+y no encontramos a su dueño, ambos juegan juntos y también se escapan juntos, pero siempre<br> 
+regresan, me alegran mucho la vida pues siempre paso a verlos llegando a mi casa, les doy las<br> 
+buenas noches y me despido de ellos cuando me voy.</font></h2>
+<br>
+<center><table style="background-color:#BFF5F9; border-color:#40282A;" border="4">
+<tr>
+<td width="110px" height="50px">Alimento</td>
+<td width="110px" height="50px">Hora</td>
+<td width="110px" height="50px">Baño</td>
+</tr>
+<tr>
+<td height="50px">Comida</td>
+<td height="50px">10 a.m</td>
+<td height="50px">1 vez cada tres semanas</td>
+</tr>
+<tr>
+<td height="50px">Cena</td>
+<td height="50px">6 p.m</td>
+<td height="50px"></td>
+</tr>
+</table></center>
+<br><br><br><br>
+<img src="G:\DAW\Act 7 Perez Cedillo Jannel 4BPM\Imágenes\Hinata.jpg" align="right">
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<h2 align="right"><font face="book antiqua" color="darkgreen" size="4">Hinata divagaba cerca del trabajo de mi papá, como a veces solía "molestar" a los compañeros de <embed src="G:\DAW\Act 7 Perez Cedillo Jannel 4BPM\Videos\Hinatavideo.mp4" width="350" height="250" style="float: left;"><br>
+trabajo de mi papá, consideraron llevarla a otro lado e incluso sacrificarla porque acostumbraba<br> 
+a subirse a los carros, si tenía la oportunidad robaba comida, entre otras cosas, así que al escuchar<br>
+eso mi papá decidió traerla a casa, yo decidí su nombre cuando llegó ya que soy fan del anime y sus<br> 
+ojos eran muy lindos. Ya tiene bastante con nosotros, le gusta jugar de vez en cuando aunque suele ser<br>
+muy amargada y nada cariñosa, casi siempre duerme, pero es muy buena cazadora, ya nos ha traído<br>
+algunas ratas, lagartijas y hasta ardillas. Aun así la queremos mucho y es parte de la familia a veces<br>
+duerme conmigo sin que mi mamá se de cuenta porque no le gusta que lo haga y es muy lindo cuando pasa.</font></h2>
+<br>
+<center><table style="background-color:#B2F7BC; border-color:gray;" border="4">
+<tr>
+<td width="110px" height="50px">Alimento</td>
+<td width="110px" height="50px">Hora</td>
+<td width="110px" height="50px">Baño</td>
+</tr>
+<tr>
+<td height="50px">Comida</td>
+<td height="50px">9:30 a.m</td>
+<td height="50px">1 vez al mes</td>
+</tr>
+<tr>
+<td height="50px">Cena</td>
+<td height="50px">7 p.m</td>
+<td height="50px"></td>
+</tr>
+</table></center>
+<br><br><br>
+<h2><font face="book antiqua" color="#3B1515" size="6">Características de mis mascotas</font>
+<ul>
+<li><font color="black" size="5">Son muy buena compañia</li>
+<li><font color="black" size="5">Jugar con ellos es divertido</li>
+<li><font color="black" size="5">Son muy miedosos</li>
+<li><font color="black" size="5">Les gusta comer mucho</li>
+<li><font color="black" size="5">Les gusta escaparse y regresar varias veces al día</li>
+</ul>
+<br><br>
+<h6 align=right><font face="calibri" color="blue">Alumn@: Perez Cedillo Jannel</font></h6>
+<h6 align=right><font face="calibri" color="blue">Grupo: 4BPM Materia: Desarrollo de Aplicaciones Web</font></h6>
+<hr>
+</body>
+</html>
