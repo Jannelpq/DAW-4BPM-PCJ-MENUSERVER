@@ -1,0 +1,131 @@
+body{
+    padding: 7px;
+    margin: 7px;
+    background-color: mediumpurple;
+}
+
+table {
+    width: 100%;
+    height: 95.5vh;
+    border-spacing: 0;
+    background-color: mediumpurple;
+}
+
+table td {
+    width: 10%;
+    height: 20%;
+    border: 1px black solid;
+
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+table .tdgrande {
+    width: 50%;
+    place-items: center;  
+    height: 100%;
+    text-align: center;
+    font-size: 150%;
+}
+
+div{
+    transition: .7s;
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.p1{
+    background-image: url(./Imágenes/Cetis156.jpg);
+    background-size: 75% 100%;
+    background-color: white;
+}
+
+.p2{
+    background-image: url(./Imágenes/Wos-Morfeo.png);
+    background-size: 100% 100%;
+}
+
+.p3{
+background-image: url(./Imágenes/Leon.jpg);
+background-size: 100% 100%;
+}
+
+.p4{
+    background-image: url(./Imágenes/Ensaladaatún.jpg);
+    background-size: 100% 100%;
+}
+
+.p5{
+    background-image: url(./Imágenes/html.png);
+    background-size: 100% 100%;
+}
+
+.p6{
+    background-image: url(./Imágenes/toby.jpg);
+    background-size: 100%;
+    background-position: 0% 25%;
+}
+
+.p7{
+    background-image: url(./Imágenes/Amigoos.jpg);
+    background-size: 100%;
+    background-position: 0% 85%;
+}
+
+.p8{
+    background-image: url(./Imágenes/diadelamujer1.PNG);
+    background-size: 100% 100%;
+}
+
+.p9{
+    background-image: url(./Imágenes/yopequeña.jpg);
+    background-size: 100% 100%;
+}
+
+.p10{
+    background-image: url(./Gifs/Signosfondo.gif);
+    background-size: 100% 100%;
+}
+
+div a{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    
+}
+h2{
+        color: white;
+        transition: .7s;
+    }
+div:hover {
+    transition: .7s;
+    backdrop-filter: blur(5px);
+}
+a h2:hover{
+        transition: .5s;
+        font-size: 150%;
+        background-color: rgba(0, 0, 0, 0.4);
+        color:hotpink
+    }
+p{
+    font-size: 75%;
+    color: white;
+}
+
+.tdgrande a{
+    color: yellow;
+    font-size: 150%;
+}
+
+footer{
+    color: white;
+    text-align: center;
+}
+footer img{
+    width: 10%;
+    height:auto;
+}

@@ -1,0 +1,133 @@
+body {
+    background-color: lightsteelblue;
+    padding: 3px;
+}
+h1{
+    font-size: 200%;
+    text-align: center;
+    color: brown;
+}
+div {
+    height: 200px;
+    width:auto;
+    text-align: center;
+    background-size: 100% 100%;
+}
+.casilla {
+    display: flex;
+    flex-direction: row;
+}
+
+.dv1,
+.dv2,
+.dv3,
+.dv4,
+.dv5,
+.dv6 {
+    width: 16.66%;
+    border-radius: 6px;
+    transition: height 0.4s;
+    transition: ease-out 0.4s;
+    filter: grayscale();
+}
+
+.dv1 {
+    background-image: url(./Imágenes/Física.PNG);
+}
+
+.dv1 a {
+    color: black;
+}
+
+.dv2 {
+    background-image: url(./Imágenes/cd.PNG);
+}
+
+.dv2 a {
+    color: wheat;
+}
+
+.dv3 {
+    background-image: url(./Imágenes/Ecología.PNG);
+}
+
+.dv3 a {
+    color: rgb(3, 79, 28);
+}
+
+.dv4 {
+    background-image: url(./Imágenes/ingles.PNG);
+}
+
+.dv4 a {
+    color: rgb(77, 53, 28);
+}
+
+.dv5 {
+    background-image: url(./Imágenes/daw.jpg);
+}
+
+.dv5 a {
+    color: violet;
+}
+
+.dv6 {
+    background-image: url(./Imágenes/dac_das.png);
+}
+
+.dv6 a {
+    color: indigo;
+}
+
+
+.eff {
+    transition: ease-out .4s;
+}
+
+.dv1:hover,
+.dv2:hover,
+.dv3:hover,
+.dv4:hover,
+.dv5:hover,
+.dv6:hover {
+    height: 215px;
+    filter: grayscale(0);
+    transition: height 0.4s;
+    transition: ease-in 0.4s;
+}
+
+.dv1 a,
+.dv2 a,
+.dv3 a,
+.dv4 a,
+.dv5 a,
+.dv6 a {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.casilla a {
+    text-decoration: none;
+}
+
+footer{
+    text-align: left;
+    font-size: 150%;
+    color: rgb(83, 83, 83);
+}
+
+h4{
+    text-align: center;
+    font-size: 150%;
+}
+
+footer img{
+    float: right;
+    width: 10%;
+    height: auto;
+}

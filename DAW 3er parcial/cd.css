@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: gold;
+}
+
+h2 {
+    margin-top: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e2e2e2;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.formula {
+    background: #e2f1ff;
+    padding: 10px;
+    border-left: 4px solid #007acc;
+    margin: 10px 0;
+}
+.datos{
+    float: right;
+    width: 160px;
+    height: auto;
+}
+.tablemenu{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.tdmenu{
+    width: 100px;
+}
+a{
+    font: cambria;
+    font-size: 25px;
+}
+.atras{
+    color: yellow;
+}
+.menu{
+    color: darkgreen;
+}
+.siguiente{
+    color: red;
+}
